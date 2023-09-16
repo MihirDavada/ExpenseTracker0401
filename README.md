@@ -20,6 +20,12 @@ The Expense Tracker is a web application built using React and the Context API, 
   - Run npm install to install the necessary dependencies.
   - Start the development server with npm start.
   - Open the app in your web browser and begin tracking your expenses.
+- **Images**
+  ![image](https://github.com/MihirDavada/ExpenseTracker0401/assets/101976200/0968bc7f-1ba8-4a03-a8e6-18928a68fa83)
+
+  ![image](https://github.com/MihirDavada/ExpenseTracker0401/assets/101976200/2ae7241c-4e89-4cb0-b5fe-9000bd31aca8)
+
+  ![image](https://github.com/MihirDavada/ExpenseTracker0401/assets/101976200/d0b3afcc-0602-41b8-9037-417d1b62bda4)
 
 - **Contribution**
   - Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. We appreciate your input.
